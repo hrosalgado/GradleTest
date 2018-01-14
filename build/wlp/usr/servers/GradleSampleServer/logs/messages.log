@@ -1,27 +1,40 @@
 ********************************************************************************
 product = Open Liberty 17.0.0.4 (wlp-1.0.19.201712061531)
-wlp.install.dir = C:/Users/hrsal/Desktop/gradle2/finish/build/wlp/
+wlp.install.dir = D:/DEV/Github/GradleTest/build/wlp/
 java.home = C:\Program Files\Java\jdk1.8.0_152\jre
 java.version = 1.8.0_152
 java.runtime = Java(TM) SE Runtime Environment (1.8.0_152-b16)
 os = Windows 10 (10.0; amd64) (es_ES)
-process = 6588@Galrich
+process = 2276@Galrich
 ********************************************************************************
-[14/01/18 11:55:06:697 CET] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: El servidor GradleSampleServer se ha lanzado.
-[14/01/18 11:55:07:547 CET] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: El kernel se ha iniciado después de 1,006 segundos
-[14/01/18 11:55:07:587 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: La actualización de características se ha iniciado.
-[14/01/18 11:55:12:667 CET] 00000012 com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Supervisando aplicaciones de dropins. 
-[14/01/18 11:55:12:680 CET] 00000025 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: El canal TCP defaultHttpEndpoint se ha iniciado y ahora está a la escucha de solicitudes en el host *  (IPv6) puerto 9080.
-[14/01/18 11:55:12:866 CET] 0000002a com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Iniciando la aplicación GradleSample.
-[14/01/18 11:55:13:118 CET] 0000002a com.ibm.ws.session.WASSessionCore                            I SESN8501I: El gestor de sesiones no ha encontrado una ubicación de almacenamiento persistente; los objetos HttpSession se almacenarán en la memoria del servidor de aplicaciones local.
-[14/01/18 11:55:13:143 CET] 0000002a com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Cargando módulo web: Hello Servlet.
-[14/01/18 11:55:13:146 CET] 0000002a com.ibm.ws.webcontainer                                      I SRVE0250I: El módulo web Hello Servlet se ha enlazado con default_host.
-[14/01/18 11:55:13:147 CET] 0000002a com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Aplicación web disponible (default_host): http://galrich:9080/GradleSample/
-[14/01/18 11:55:13:193 CET] 0000002a com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: La aplicación GradleSample se ha iniciado en 0,327 segundos.
-[14/01/18 11:55:13:202 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: El servidor ha instalado las características siguientes: [servlet-3.1].
-[14/01/18 11:55:13:202 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: La actualización de características se ha completado en 5,655 segundos.
-[14/01/18 11:55:13:202 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: El servidor GradleSampleServer está preparado para ejecutar un planeta más inteligente.
-[14/01/18 11:55:13:247 CET] 0000002d com.ibm.ws.session.WASSessionCore                            I SESN0176I: Se creará un nuevo contexto de sesión para la clave de aplicación default_host/GradleSample
-[14/01/18 11:55:13:264 CET] 0000002d com.ibm.ws.util                                              I SESN0172I: El gestor de sesiones está utilizando la implementación de SecureRandom Java por omisión para la generación del ID de sesión.
-[14/01/18 11:55:18:023 CET] 0000001b com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: Se ha generado automáticamente un archivo de configuración para un plug-in de servidor web para este servidor en C:\Users\hrsal\Desktop\gradle2\finish\build\wlp\usr\servers\GradleSampleServer\logs\state\plugin-cfg.xml.
-[14/01/18 11:58:01:569 CET] 0000002d com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [GradleSample] [/GradleSample] [io.openliberty.guides.hello.HelloServlet]: Inicialización satisfactoria.
+[14/01/18 13:16:24:574 CET] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: El servidor GradleSampleServer se ha lanzado.
+[14/01/18 13:16:25:391 CET] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: El kernel se ha iniciado después de 0,98 segundos
+[14/01/18 13:16:25:440 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: La actualización de características se ha iniciado.
+[14/01/18 13:16:30:556 CET] 00000012 com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Supervisando aplicaciones de dropins. 
+[14/01/18 13:16:30:572 CET] 00000025 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: El canal TCP defaultHttpEndpoint se ha iniciado y ahora está a la escucha de solicitudes en el host *  (IPv6) puerto 9080.
+[14/01/18 13:16:30:728 CET] 0000002a com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Iniciando la aplicación GradleSample.
+[14/01/18 13:16:30:949 CET] 0000002a com.ibm.ws.session.WASSessionCore                            I SESN8501I: El gestor de sesiones no ha encontrado una ubicación de almacenamiento persistente; los objetos HttpSession se almacenarán en la memoria del servidor de aplicaciones local.
+[14/01/18 13:16:30:980 CET] 0000002a com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Cargando módulo web: Hello Servlet.
+[14/01/18 13:16:30:980 CET] 0000002a com.ibm.ws.webcontainer                                      I SRVE0250I: El módulo web Hello Servlet se ha enlazado con default_host.
+[14/01/18 13:16:30:980 CET] 0000002a com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Aplicación web disponible (default_host): http://galrich:9080/GradleSample/
+[14/01/18 13:16:30:980 CET] 0000002a com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: La aplicación GradleSample se ha iniciado en 0,252 segundos.
+[14/01/18 13:16:30:995 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: El servidor ha instalado las características siguientes: [servlet-3.1].
+[14/01/18 13:16:30:995 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: La actualización de características se ha completado en 5,609 segundos.
+[14/01/18 13:16:30:995 CET] 00000019 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: El servidor GradleSampleServer está preparado para ejecutar un planeta más inteligente.
+[14/01/18 13:16:31:029 CET] 0000002d com.ibm.ws.session.WASSessionCore                            I SESN0176I: Se creará un nuevo contexto de sesión para la clave de aplicación default_host/GradleSample
+[14/01/18 13:16:31:044 CET] 0000002d com.ibm.ws.util                                              I SESN0172I: El gestor de sesiones está utilizando la implementación de SecureRandom Java por omisión para la generación del ID de sesión.
+[14/01/18 13:16:35:839 CET] 0000001b com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: Se ha generado automáticamente un archivo de configuración para un plug-in de servidor web para este servidor en D:\DEV\Github\GradleTest\build\wlp\usr\servers\GradleSampleServer\logs\state\plugin-cfg.xml.
+[14/01/18 13:16:52:034 CET] 00000025 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [GradleSample] [/GradleSample] [io.openliberty.guides.hello.HelloServlet]: Inicialización satisfactoria.
+[14/01/18 13:19:31:607 CET] 00000055 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Aplicación web eliminada (default_host): http://galrich:9080/GradleSample/
+[14/01/18 13:19:31:607 CET] 00000055 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [GradleSample] [/GradleSample] [io.openliberty.guides.hello.HelloServlet]: Destrucción satisfactoria.
+[14/01/18 13:19:31:623 CET] 00000055 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: La aplicación GradleSample se ha detenido correctamente.
+[14/01/18 13:19:31:623 CET] 00000055 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Iniciando la aplicación GradleSample.
+[14/01/18 13:19:31:654 CET] 00000055 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Cargando módulo web: Hello Servlet.
+[14/01/18 13:19:31:654 CET] 00000055 com.ibm.ws.webcontainer                                      I SRVE0250I: El módulo web Hello Servlet se ha enlazado con default_host.
+[14/01/18 13:19:31:654 CET] 00000055 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Aplicación web disponible (default_host): http://galrich:9080/GradleSample/
+[14/01/18 13:19:31:654 CET] 00000055 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: La aplicación GradleSample se ha actualizado en 0,031 segundos.
+[14/01/18 13:19:31:670 CET] 0000004f com.ibm.ws.session.WASSessionCore                            I SESN0176I: Se creará un nuevo contexto de sesión para la clave de aplicación default_host/GradleSample
+[14/01/18 13:19:31:670 CET] 0000004f com.ibm.ws.util                                              I SESN0172I: El gestor de sesiones está utilizando la implementación de SecureRandom Java por omisión para la generación del ID de sesión.
+[14/01/18 13:19:36:337 CET] 00000056 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: Se ha generado automáticamente un archivo de configuración para un plug-in de servidor web para este servidor en D:\DEV\Github\GradleTest\build\wlp\usr\servers\GradleSampleServer\logs\state\plugin-cfg.xml.
+[14/01/18 13:19:41:010 CET] 0000005b com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: Se ha generado automáticamente un archivo de configuración para un plug-in de servidor web para este servidor en D:\DEV\Github\GradleTest\build\wlp\usr\servers\GradleSampleServer\logs\state\plugin-cfg.xml.
+[14/01/18 13:20:16:664 CET] 0000005c com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [GradleSample] [/GradleSample] [io.openliberty.guides.hello.HelloServlet]: Inicialización satisfactoria.

@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
      * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
      */
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().append("Hello! Is Gradle working for you?\n");
+        response.getWriter().append("<h1>Hello Miguel!</h1>\n");
     }
 
     /**

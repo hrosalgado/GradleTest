@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.openliberty.guides.hello.it.EndpointIT" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-14T10:53:35" hostname="Galrich" time="0.159">
+<testsuite name="io.openliberty.guides.hello.it.EndpointIT" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-14T11:58:41" hostname="Galrich" time="0.059">
   <properties/>
-  <testcase name="testServlet" classname="io.openliberty.guides.hello.it.EndpointIT" time="0.159"/>
+  <testcase name="testServlet" classname="io.openliberty.guides.hello.it.EndpointIT" time="0.059"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

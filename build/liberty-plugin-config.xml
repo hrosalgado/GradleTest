@@ -10,11 +10,11 @@
   <assemblyArchive>C:\Users\hrsal\.gradle\caches\modules-2\files-2.1\io.openliberty\openliberty-runtime\17.0.0.4\8709c75cf905051e043b8c63e25640b464e58e39\openliberty-runtime-17.0.0.4.zip</assemblyArchive>
   <servers>
     <server>
-      <userDirectory>C:\Users\hrsal\Desktop\gradle2\finish\build\wlp\usr</userDirectory>
-      <serverDirectory>C:\Users\hrsal\Desktop\gradle2\finish\build\wlp\usr\servers\GradleSampleServer</serverDirectory>
-      <serverOutputDirectory>C:\Users\hrsal\Desktop\gradle2\finish\build\wlp\usr\servers\GradleSampleServer</serverOutputDirectory>
+      <userDirectory>D:\DEV\Github\GradleTest\build\wlp\usr</userDirectory>
+      <serverDirectory>D:\DEV\Github\GradleTest\build\wlp\usr\servers\GradleSampleServer</serverDirectory>
+      <serverOutputDirectory>D:\DEV\Github\GradleTest\build\wlp\usr\servers\GradleSampleServer</serverOutputDirectory>
       <serverName>GradleSampleServer</serverName>
-      <configFile>C:\Users\hrsal\Desktop\gradle2\finish\src\main\liberty\config\server.xml</configFile>
+      <configFile>D:\DEV\Github\GradleTest\src\main\liberty\config\server.xml</configFile>
       <bootstrapProperties>
         <default.http.port>9080</default.http.port>
         <default.https.port>9443</default.https.port>
