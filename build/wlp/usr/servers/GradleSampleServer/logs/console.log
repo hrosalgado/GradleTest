@@ -1,0 +1,12 @@
+Lanzando GradleSampleServer (Open Liberty 17.0.0.4/wlp-1.0.19.201712061531) en Java HotSpot(TM) 64-Bit Server VM, versión 1.8.0_152-b16 (es_ES)
+[AUDIT   ] CWWKE0001I: El servidor GradleSampleServer se ha lanzado.
+[AUDIT   ] CWWKZ0058I: Supervisando aplicaciones de dropins. 
+[AUDIT   ] CWWKT0016I: Aplicación web disponible (default_host): http://galrich:9080/GradleSample/
+[AUDIT   ] CWWKZ0001I: La aplicación GradleSample se ha iniciado en 0,321 segundos.
+[AUDIT   ] CWWKF0012I: El servidor ha instalado las características siguientes: [servlet-3.1].
+[AUDIT   ] CWWKF0011I: El servidor GradleSampleServer está preparado para ejecutar un planeta más inteligente.
+[AUDIT   ] CWWKE0055I: Conclusión del servidor solicitada el domingo 14 de enero de 2018 a las 11:53. El servidor GradleSampleServer se está cerrando.
+[AUDIT   ] CWWKE1100I: Esperando hasta 30 segundos para que el servidor se desactive temporalmente.
+[AUDIT   ] CWWKT0017I: Aplicación web eliminada (default_host): http://galrich:9080/GradleSample/
+[AUDIT   ] CWWKZ0009I: La aplicación GradleSample se ha detenido correctamente.
+[AUDIT   ] CWWKE0036I: El servidor GradleSampleServer se ha detenido después de 13,479 segundos.
